@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=HolyPvP;competitive+minecraft+network;UHC+%7C+Meetup+%7C+Practice+%7C+KitMap+%7C+HCF;leading+Spanish+PvP+since+2016;always+evolving)](https://git.io/typing-svg)
-
 <br/>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)

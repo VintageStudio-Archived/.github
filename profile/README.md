@@ -10,12 +10,20 @@
 
 <br/>
 
+<a href="https://github.com/iSixyy">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=iSixyy&data=followers,repositories,stars,commits&theme=darkmode" alt="iSixyy"/>
+</a>
+
 <a href="https://github.com/v4lss">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=v4lss&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
 </a>
 
-<a href="https://github.com/iSixyy">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=iSixyy&data=followers,repositories,stars,commits&theme=darkmode" alt="iSixyy"/>
+<a href="https://github.com/Suspendido">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=v4lss&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
+</a>
+
+<a href="https://github.com/ThomasAlvenin">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=v4lss&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
 </a>
 
 </div>

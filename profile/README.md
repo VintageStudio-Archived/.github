@@ -22,8 +22,4 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Suspendido&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
 </a>
 
-<a href="https://github.com/ThomasAlvenin">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ThomasAlvenin&data=followers,repositories,stars,commits&theme=darkmode" alt="v4lss"/>
-</a>
-
 </div>

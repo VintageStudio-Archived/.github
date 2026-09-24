@@ -21,6 +21,8 @@
 
 <div align="center">
 
+<img width="2171" height="724" alt="ChatGPT Image Sep 25, 2026, 12_43_47 AM" src="https://github.com/user-attachments/assets/e227d1df-f094-4730-b4b3-95a4ddf6a63d" />
+
 ### Team
 
 <a href="https://github.com/iSixyy">
@@ -40,3 +42,5 @@
 </div>
 
 <br/>
+
+
